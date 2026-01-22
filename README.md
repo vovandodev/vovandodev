@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-	<img width="450em" src="https://streak-stats.demolab.com/?user=vovandodev&hide_border=true&theme=dark"/>
+	<img width="450em" src="https://github-readme-streak-stats-sigma-five.vercel.app/?user=vovandodev&hide_border=true&theme=dark"/>
 </p>
 
 <!-- <p align="center">
